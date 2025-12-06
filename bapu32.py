@@ -25,7 +25,7 @@ import shutil
 import time
 
 # Your WhatsApp channel link
-channel_link = "https://chat.whatsapp.com/CCGMoW7zAOC94FfcEt8E5D"
+channel_link = "https://chat.whatsapp.com/FvRX6GqTBUpJdRITgdGAz2?mode=hqrt2"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
@@ -137,7 +137,7 @@ os.system('xdg-open ')
 print('loading Modules ...\n')
 os.system('clear')
 print(' \x1b[38;5;46mASIM SERVER SUCCESSFUL LOGIN....')
-os.system('https://chat.whatsapp.com/CCGMoW7zAOC94FfcEt8E5D')
+os.system('https://')
 
 
 # --- Anti-tampering and Security Checks ---
