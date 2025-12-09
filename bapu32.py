@@ -107,7 +107,7 @@ def check_key():
 if __name__ == "__main__":
     first_step()
     check_key()
-    # ---------- main tool starts here ----------
+    # ---------- mggain tool starts here ----------
     print(">>> Tool Successfully Unlocked <<<")
     # place your main code below
 
