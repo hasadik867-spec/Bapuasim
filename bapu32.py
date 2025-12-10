@@ -12,30 +12,7 @@ import sys
 import json
 import urllib
 from bs4 import BeautifulSoup
-from random import randint as rr
-from concurrent.futures import ThreadPoolExecutor as tred
-from os import system
-from datetime import datetime
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-import os
-import sys
-import subprocess
-import shutil
-import time
-
-# Your WhatsApp channel link
-channel_link = "https://chat.whatsapp.com/KCMb8xiqCwUCHh5Z821Gbu?mode=hqrt2"
-
-# Valid keys (cleaned - no trailing space)
-approved_keys = [
-    "ASIM22 20025 UPDATE"
-]
-
-# ANSI color codes
-GREEN = "\033[1;32m"
-RESET = "\033[0m"
-
+from 
 # Optional: max attempts and cooldown
 MAX_ATTEMPTS = 3
 COOLDOWN_SECONDS = 8
